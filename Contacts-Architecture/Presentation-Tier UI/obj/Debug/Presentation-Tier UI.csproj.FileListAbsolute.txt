@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\Presentation-Tier UI.exe.config
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\Presentation-Tier UI.exe
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\Presentation-Tier UI.pdb
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation_Tier_UI.Properties.Resources.resources
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presenta.72DA261E.Up2Date
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.exe
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.pdb
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation-Tier UI.exe.config
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsDataAccesLayer.dll
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsDataAccesLayer.pdb
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation_Tier_UI.MainForm.resources
