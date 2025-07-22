@@ -14,3 +14,4 @@ C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Prese
 C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsDataAccesLayer.dll
 C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\bin\Debug\ContactsDataAccesLayer.pdb
 C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation_Tier_UI.MainForm.resources
+C:\Users\HP\Desktop\3-Ttier-Architecture-WinForm-APP\Contacts-Architecture\Presentation-Tier UI\obj\Debug\Presentation_Tier_UI.FrmAddEditeContact.resources
